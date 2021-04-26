@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://baljeet123:FpJIY1sf9X29xvKK@cluster0.vodo2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "b8ae08448fa87ab681f1",
+    "githubSecret": "d1871f99ae881893420c1c499952333a1c9c8ca1"
+}

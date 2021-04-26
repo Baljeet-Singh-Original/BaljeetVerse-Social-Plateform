@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\balje\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "git.ignoreLimitWarning": true,
+    "python.formatting.provider": "black"
+}
