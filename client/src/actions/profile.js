@@ -1,5 +1,4 @@
 import axios from 'axios'
-import setAuthToken from '../utils/setAuthToken'
 import { setAlert } from './alert'
 
 import {
@@ -54,7 +53,7 @@ export const getProfiles = () => async dispatch => {
 export const getProfileById = userId => async dispatch => {
     try {
         const res = await axios.get(`/api/profile/user/${userId}`)
-            // console.log(res.data[0].user)
+        // console.log(res.data[0].user)
         dispatch({
             type: GET_PROFILE,
             payload: res.data[0]

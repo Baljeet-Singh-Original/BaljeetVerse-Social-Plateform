@@ -3,7 +3,6 @@ import { setAlert } from './alert'
 import {
     GET_POSTS,
     GET_POST,
-    GET_PROFILE,
     POST_ERROR,
     UPDATE_LIKES,
     DELETE_POST,
