@@ -593,3 +593,31 @@ button {
         padding: 0.3rem 0.4rem;
     }
 }
+
+.header {
+    height: 90vh;
+    width: 100%;
+    padding-top: 1%;
+    color: white;
+    background: linear-gradient( to right, rgb(62, 32, 233), rgba(250, 64, 64, 0.5)), url(https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-size: cover;
+}
+
+.h-100 {
+    height: 100%;
+    width: 100%;
+}
+
+.btn {
+    border-radius: 10rem !important;
+    padding: 0.5rem 2rem !important;
+}
+
+.message {
+    background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+}
+
+.myicon {
+    font-size: 60px;
+    padding: 20px;
+}

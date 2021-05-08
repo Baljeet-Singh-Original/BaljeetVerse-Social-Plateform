@@ -21,7 +21,7 @@ const Navbar = ({ auth: { isAuthenticated, loading }, logout }) => {
     const guestLinks = (
         <ul>
             <li><Link to="/profiles">Developers </Link></li>
-            <li><a href="#!">BaljeetVerse Info</a></li>
+            <li><Link to="/about">BaljeetVerse Info</Link> </li>
             <li><Link to="/register">Register</Link></li>
             <li><Link to="/login">Login</Link></li>
         </ul>
