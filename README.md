@@ -5,6 +5,10 @@
 This is a MERN stack application from the "MERN Stack Front To Back". It is a small social network app that includes authentication, profiles and forum posts.
 [Here](https://baljeetverse.herokuapp.com/) is the link of website.
 
+
+# Preview 🏞️ 🌅
+![Alt text](<Screenshot 2023-12-02 at 11.14.51 AM.png>) ![Alt text](<Screenshot 2023-12-02 at 11.14.19 AM.png>) ![Alt text](<Screenshot 2023-12-02 at 11.14.33 AM.png>) ![Alt text](<Screenshot 2023-12-02 at 11.14.44 AM.png>)
+
 # Quick Start 🚀
 
 ### Add a default.json file in config folder with the following
